@@ -1,6 +1,8 @@
 # MixedReality_Demo
 Connect the HTC vive and Hololens
 
+Description
+-----
 - Hololens: server end 
 First the Hololens will scan the indoor environment, also apply the textures accordingly
 https://github.com/ywj7931/Hololens_Image_Based_Texture
