@@ -16,3 +16,5 @@ Todo
 (this has to be tested out what time frame would be the ultimate solution)
 
 - [ ] Concurrent computing with tasks running from the frontend and backend.
+
+- [ ] Replace the hololens with other standardalone slam sensor (eg. LDAR）
