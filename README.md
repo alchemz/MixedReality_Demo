@@ -4,11 +4,11 @@ Connect the HTC vive and Hololens
 Description
 -----
 - Hololens: server end 
-First the Hololens will scan the indoor environment, also apply the textures accordingly
+* First the Hololens will scan the indoor environment, also apply the textures accordingly
 https://github.com/ywj7931/Hololens_Image_Based_Texture
 
 - HTC vive: client end
-Then, transfer the scanned model from Hololens to the HTC vive
+* Then, transfer the scanned model from Hololens to the HTC vive
 
 Todo
 -----
